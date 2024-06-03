@@ -29,4 +29,12 @@
         </dependency>
     </dependencies>
 
+    <distributionManagement>
+        <repository>
+            <id>github</id>
+            <name>GitHub BoBkiNN Apache Maven Packages</name>
+            <url>https://maven.pkg.github.com/BoBkiNN/log4j-utils</url>
+        </repository>
+    </distributionManagement>
+
 </project>
